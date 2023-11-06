@@ -1,0 +1,11 @@
+name: mdanalysis
+channels:
+  - conda-forge 
+dependencies:
+  - biopython
+  - mdanalysis
+  - mdanalysistests
+  - nglview
+  - numpy
+  - moviepy
+  - pandas
